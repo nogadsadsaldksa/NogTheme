@@ -6,8 +6,8 @@
   --app-font-width: 100;
   --app-font-roundness: 100;
   --app-bg: var(--main-alt);
-  --app-watermark-one: "Amo a";
-  --app-watermark-two: "Lye";
+  --app-watermark-one: "AMO A";
+  --app-watermark-two: "LYE";
   --app-title-bar-height: 22px;
   --app-button-min: hsl(39,100%,63%);
   --app-button-max: hsl(143,100%,40%);
